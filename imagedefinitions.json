@@ -1,0 +1,6 @@
+[
+    {
+      "name": "hello-world",
+      "imageUri": "490004642561.dkr.ecr.eu-north-1.amazonaws.com/docker-repo"
+    }
+  ]
